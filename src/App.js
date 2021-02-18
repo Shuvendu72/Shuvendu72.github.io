@@ -1,10 +1,15 @@
 import logo from './logo.svg';
-import './App.css';
+// import './App.css';
+import './App.scss';
+import NavBar from './Components/NavBar';
 
 function App() {
   return (
     <div className="App">
-        <h1>Shivanshu kumar</h1>
+      <div className="sidebar">
+        <NavBar />
+      </div>
+      <div className="main-content"></div>
     </div>
   );
 }
