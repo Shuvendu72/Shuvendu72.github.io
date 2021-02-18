@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/shuvendu.github.io/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/shuvendu.github.io/static/js/main.97213b8c.chunk.js",
-    "main.js.map": "/shuvendu.github.io/static/js/main.97213b8c.chunk.js.map",
+    "main.js": "/shuvendu.github.io/static/js/main.3e8d7c40.chunk.js",
+    "main.js.map": "/shuvendu.github.io/static/js/main.3e8d7c40.chunk.js.map",
     "runtime-main.js": "/shuvendu.github.io/static/js/runtime-main.fcdad753.js",
     "runtime-main.js.map": "/shuvendu.github.io/static/js/runtime-main.fcdad753.js.map",
-    "static/js/2.dffe4709.chunk.js": "/shuvendu.github.io/static/js/2.dffe4709.chunk.js",
-    "static/js/2.dffe4709.chunk.js.map": "/shuvendu.github.io/static/js/2.dffe4709.chunk.js.map",
+    "static/js/2.f2d2ae1c.chunk.js": "/shuvendu.github.io/static/js/2.f2d2ae1c.chunk.js",
+    "static/js/2.f2d2ae1c.chunk.js.map": "/shuvendu.github.io/static/js/2.f2d2ae1c.chunk.js.map",
     "static/js/3.633ae58d.chunk.js": "/shuvendu.github.io/static/js/3.633ae58d.chunk.js",
     "static/js/3.633ae58d.chunk.js.map": "/shuvendu.github.io/static/js/3.633ae58d.chunk.js.map",
     "index.html": "/shuvendu.github.io/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/shuvendu.github.io/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.dffe4709.chunk.js.LICENSE.txt": "/shuvendu.github.io/static/js/2.dffe4709.chunk.js.LICENSE.txt",
+    "static/js/2.f2d2ae1c.chunk.js.LICENSE.txt": "/shuvendu.github.io/static/js/2.f2d2ae1c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/shuvendu.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fcdad753.js",
-    "static/js/2.dffe4709.chunk.js",
+    "static/js/2.f2d2ae1c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.97213b8c.chunk.js"
+    "static/js/main.3e8d7c40.chunk.js"
   ]
 }
